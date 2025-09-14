@@ -1,4 +1,6 @@
 ﻿# currencySwaply
 
 This is a currency converter web application.
-<img width="1919" height="831" alt="Screenshot 2025-09-15 003626" src="https://github.com/user-attachments/assets/bb5063cc-079f-437a-84c5-84caff22de1d" />
+
+https://github.com/user-attachments/assets/3d458299-1a1c-465c-8a71-de3825b01bed
+
