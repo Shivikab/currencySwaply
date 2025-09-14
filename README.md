@@ -2,5 +2,5 @@
 
 This is a currency converter web application.
 
-https://github.com/user-attachments/assets/3d458299-1a1c-465c-8a71-de3825b01bed
+https://github.com/user-attachments/assets/12166ef6-4c5b-418b-918b-db76f92924bd
 
